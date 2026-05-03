@@ -2,7 +2,7 @@
 title: "迹（trace）"
 published: 2026-05-03
 description: ""
-tags: ""
+tags: []
 draft: false
 slug: "线性代数/迹-trace"
 date: 2026-04-04
