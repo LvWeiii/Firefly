@@ -11,13 +11,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	showInNavbar: true,
 
 	// 使用方式："meting" 使用 Meting API，"local" 使用本地音乐列表
-	mode: "meting",
+	mode: "local",
 
 	// 默认音量 (0-1)
 	volume: 0.7,
 
 	// 播放模式：'list'=列表循环, 'one'=单曲循环, 'random'=随机播放
-	playMode: "list",
+	playMode: "random",
 
 	// 是否显启用歌词
 	showLyrics: true,
@@ -50,11 +50,11 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
+				name: "Stay Stay Stay",
+				artist: "Taylor Swift",
+				url: "/assets/music/Stay Stay Stay-Taylor Swift.flac",
 				cover: "/assets/music/cover/109951169585655912.webp",
-				lrc: "",
+				lrc: "/assets/music/lrc/Stay Stay Stay-Taylor Swift.lrc",
 			},
 		],
 	},
