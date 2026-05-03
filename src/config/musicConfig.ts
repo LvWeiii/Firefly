@@ -56,6 +56,20 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/RED.jpg",
 				lrc: "/assets/music/Stay Stay Stay-Taylor Swift.lrc",
 			},
+			{
+				name: "Beauty and a Beat",
+				artist: "Justin Bieber&Nicki Minaj",
+				url: "/assets/music/Beauty and a Beat-Justin Bieber&Nicki Minaj.mp3",
+				cover: "/assets/music/cover/beauty and a beat.webp",
+				lrc: "/assets/music/Beauty and a Beat-Justin Bieber&Nicki Minaj.lrc"
+			},
+			{
+				name: "Beauty and a Beat",
+				artist: "Justin Bieber&Nicki Minaj",
+				url: "/assets/music/The Saltwater Room (Album Version)-Owl City.flac",
+				cover: "/assets/music/cover/saltwater room.webp",
+				lrc: "/assets/music/The Saltwater Room (Album Version)-Owl City.lrc"
+			},
 		],
 	},
 };
