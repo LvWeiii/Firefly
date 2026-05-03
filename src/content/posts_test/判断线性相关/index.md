@@ -1,0 +1,13 @@
+---
+title: "判断线性相关"
+published: 2026-05-03
+description: ""
+tags:
+  - 方法论
+draft: true
+slug: "判断线性相关"
+date: 2026-04-10
+---
+
+线性相关则行列式为0
+[求行列式](/posts/求行列式/)
