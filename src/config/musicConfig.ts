@@ -54,7 +54,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "Taylor Swift",
 				url: "/assets/music/Stay Stay Stay-Taylor Swift.flac",
 				cover: "/assets/music/cover/RED.jpg",
-				lrc: "/assets/musicStay Stay Stay-Taylor Swift.lrc",
+				lrc: "/assets/music/Stay Stay Stay-Taylor Swift.lrc",
 			},
 		],
 	},
