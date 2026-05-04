@@ -5,6 +5,7 @@ description: ""
 tags:
   - 塔子哥算法课
   - 得物真题
+category: python
 draft: false
 slug: "python/双指针/得物2024-08-28互相嘲笑的两个人"
 date: 2026-04-12

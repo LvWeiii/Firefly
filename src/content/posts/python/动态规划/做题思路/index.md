@@ -1,8 +1,9 @@
 ---
-title: "终止条件"
+title: "做题思路"
 published: 2026-05-03
 description: ""
 tags: []
+category: python
 draft: false
 slug: "python/动态规划/做题思路"
 ---

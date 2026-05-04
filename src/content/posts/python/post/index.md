@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 运算符
+category: python
 draft: false
 slug: python/post
 date: 2026-04-29

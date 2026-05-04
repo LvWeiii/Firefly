@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 华为真题
+category: python
 draft: false
 slug: "python/混淆矩阵/华为2026-01-07基于混淆矩阵-推导分类模型的核心评估指标"
 date: 2026-04-10

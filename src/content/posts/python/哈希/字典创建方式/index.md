@@ -1,8 +1,9 @@
 ---
-title: "结果: {'name': 'Bob', 'age': 30, 'city': 'London'}"
+title: "字典创建方式"
 published: 2026-05-03
 description: ""
 tags: []
+category: python
 draft: false
 slug: "python/哈希/字典创建方式"
 ---

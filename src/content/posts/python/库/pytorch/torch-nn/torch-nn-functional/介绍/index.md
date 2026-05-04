@@ -1,8 +1,9 @@
 ---
-title: "常用导入"
+title: "介绍"
 published: 2026-05-03
 description: ""
 tags: []
+category: python
 draft: false
 slug: "python/库/pytorch/torch-nn/torch-nn-functional/介绍"
 ---

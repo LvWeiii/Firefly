@@ -1,8 +1,9 @@
 ---
-title: "1、多模态大模型的核心挑战是什么？"
+title: "面试问题准备"
 published: 2026-05-03
 description: ""
 tags: []
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/面试问题准备"
 ---

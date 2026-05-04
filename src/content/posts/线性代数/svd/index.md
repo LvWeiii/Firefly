@@ -1,9 +1,10 @@
 ---
-title: "学习笔记(基于上述视频)"
+title: SVD
 published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: "线性代数"
 draft: false
 slug: "线性代数/svd"
 date: 2026-04-04

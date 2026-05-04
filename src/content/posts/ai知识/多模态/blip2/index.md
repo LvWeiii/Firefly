@@ -6,6 +6,7 @@ tags:
   - 经典大模型
   - 概念
   - 论文
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/blip2"
 date: 2026-04-23

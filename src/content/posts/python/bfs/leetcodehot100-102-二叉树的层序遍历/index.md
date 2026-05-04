@@ -1,9 +1,10 @@
 ---
-title: "Definition for a binary tree node."
+title: "leetcodehot100-102.二叉树的层序遍历"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/bfs/leetcodehot100-102-二叉树的层序遍历"
 date: 2026-04-19

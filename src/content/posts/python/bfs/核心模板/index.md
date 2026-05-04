@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: python
 draft: false
 slug: "python/bfs/核心模板"
 date: 2026-04-04

@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 概念
+category: "AI知识"
 draft: false
 slug: "ai知识/数字水印/synthid"
 date: 2026-04-23

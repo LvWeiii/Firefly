@@ -1,9 +1,10 @@
 ---
-title: "查找 'cherry' 的索引"
+title: "index()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/列表-栈/index"
 date: 2026-04-05

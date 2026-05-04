@@ -1,11 +1,12 @@
 ---
-title: "地位"
+title: ViT
 published: 2026-05-03
 description: ""
 tags:
   - 概念
   - 论文
   - 经典大模型
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/vit"
 date: 2026-04-25

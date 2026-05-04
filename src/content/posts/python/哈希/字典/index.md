@@ -1,9 +1,10 @@
 ---
-title: "创建方式"
+title: "字典"
 published: 2026-05-03
 description: ""
 tags:
   - 数据结构
+category: python
 draft: false
 slug: "python/哈希/字典"
 ---
@@ -71,5 +72,5 @@ sorted_items = sorted(d.items(), key=lambda x: x[1]) # 按值排序
 # 使用场景
 - 需要存储键值对关系
 - 快速查找某个键对应的值
-- 统计计数（键是元素，值是次数）  推荐用[本质](/posts/python/哈希/counter/)
+- 统计计数（键是元素，值是次数）  推荐用[Counter](/posts/python/哈希/counter/)
 - 建立映射关系（如索引映射）

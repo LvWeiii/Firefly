@@ -1,9 +1,10 @@
 ---
-title: "Your MinStack object will be instantiated and called as such:"
+title: "leetcodehot100-155.最小栈"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/列表-栈/leetcodehot100-155-最小栈"
 date: 2026-04-19

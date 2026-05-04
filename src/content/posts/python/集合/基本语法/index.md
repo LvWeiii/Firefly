@@ -1,9 +1,10 @@
 ---
-title: "创建"
+title: "基本语法"
 published: 2026-05-03
 description: ""
 tags:
   - 语法
+category: python
 draft: false
 slug: "python/集合/基本语法"
 date: 2026-04-07
@@ -15,7 +16,7 @@ s = {1，2，3}
 
 s = set([1,2,2]) 会自动去重变成{1,2}
 
-注意:{}创建的是字典，空集合必须用set() [创建方式](/posts/python/哈希/字典/)
+注意:{}创建的是字典，空集合必须用set() [字典](/posts/python/哈希/字典/)
 
 # 添加
 

@@ -1,9 +1,10 @@
 ---
-title: "保留n位小数"
+title: format
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/输入输出-acm/format"
 date: 2026-04-08

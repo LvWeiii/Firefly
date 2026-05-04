@@ -1,9 +1,10 @@
 ---
-title: "ASCII 字符集，开 256 大小数组记录最近出现位置"
+title: "华为2026.01.21基于样本纯净度指标的大模型训练数据清洗"
 published: 2026-05-03
 description: ""
 tags:
   - 华为真题
+category: python
 draft: false
 slug: "python/双指针/华为2026-01-21基于样本纯净度指标的大模型训练数据清洗"
 date: 2026-04-12

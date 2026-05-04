@@ -1,11 +1,12 @@
 ---
-title: "记录每个字母出现的次数"
+title: "塔子哥的字符串"
 published: 2026-05-03
 description: ""
 tags:
   - 方法论
   - 塔子哥算法课
   - 模板
+category: python
 draft: false
 slug: "python/双指针/塔子哥的字符串"
 date: 2026-04-12

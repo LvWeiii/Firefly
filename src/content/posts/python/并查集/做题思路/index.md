@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: python
 draft: false
 slug: "python/并查集/做题思路"
 date: 2026-04-06

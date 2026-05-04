@@ -1,9 +1,10 @@
 ---
-title: "【排列专属零件】：一个和 nums 一样长的布尔数组，记录谁被用过"
+title: "leetcodehot100-46.全排列"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/排列型回溯/leetcodehot100-46-全排列"
 date: 2026-04-25

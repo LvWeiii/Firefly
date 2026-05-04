@@ -1,8 +1,9 @@
 ---
-title: "sep/delimiter:分隔符"
+title: "概念"
 published: 2026-05-03
 description: ""
 tags: []
+category: python
 draft: false
 slug: "python/库/pandas/dataframe/概念"
 ---

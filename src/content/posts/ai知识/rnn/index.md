@@ -1,9 +1,10 @@
 ---
-title: "基本形式"
+title: RNN
 published: 2026-05-03
 description: ""
 tags:
   - 经典大模型
+category: "AI知识"
 draft: false
 slug: "ai知识/rnn"
 ---
@@ -21,10 +22,10 @@ $h_{t} = tanh(h_{t-1}W_{h} + x_{t}W_{x} + b)$
 # RNN的不足
 1、长程依赖问题：由于梯度消失问题，往往只能学习到短期的依赖关系
 2、记忆容量：随着$h_{t}$不断累积存储新的输入信息，会出现信息饱和现象
-3、时间序列维度无法并行，效率低 -> 改进：[基本框架——编码器解码器](/posts/ai知识/transformer/)
+3、时间序列维度无法并行，效率低 -> 改进：[Transformer](/posts/ai知识/transformer/)
 
 
 # 解决方案
 引入门控机制来控制信息的累积速度，有选择地加入新的信息，并有选择地遗忘之前累积地信息，称为基于门控地循环神经网络。
 [[GRU]]
-[工作流程](/posts/ai知识/lstm/)
+[LSTM](/posts/ai知识/lstm/)

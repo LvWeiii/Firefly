@@ -1,9 +1,10 @@
 ---
-title: "将 tools 文件夹的路径加入搜索名单"
+title: "sys.path.append()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/输入输出-acm/sys/sys-path-append"
 date: 2026-04-10

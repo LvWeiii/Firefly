@@ -5,6 +5,7 @@ description: ""
 tags:
   - 模板
   - 方法论
+category: python
 draft: false
 slug: "python/并查集/并查集递归模板"
 date: 2026-04-06

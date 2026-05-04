@@ -5,6 +5,7 @@ description: ""
 tags:
   - 塔子哥算法课
   - 模板
+category: python
 draft: false
 slug: "python/双指针/最长连续不重复子序列"
 date: 2026-04-12

@@ -1,10 +1,11 @@
 ---
-title: "基本架构"
+title: ALBEF
 published: 2026-05-03
 description: ""
 tags:
   - 论文
   - 概念
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/albef"
 date: 2026-04-19
@@ -17,11 +18,11 @@ Align before Fuse: Vision and Language Representation Learning with Momentum Dis
 
 ![ALBEF](./albef.png)
 
-符合[图2 目前视觉-语言多模态模型参数量分配](/posts/ai知识/多模态/vilt/)中的结论:
+符合[ViLT](/posts/ai知识/多模态/vilt/)中的结论:
 
 1、我们可以发现ALBEF的VE(Visual Embedder)由12个transformer block组成，TE(Texual Embedder)由6个transformer block组成，VE比TE更复杂。
 
-2、相对于[基本原理](/posts/ai知识/多模态/clip/)中MI(Modality Interaction)仅仅是点乘，ALBEF使用了六层的transformer block。
+2、相对于[CLIP](/posts/ai知识/多模态/clip/)中MI(Modality Interaction)仅仅是点乘，ALBEF使用了六层的transformer block。
 
 3、目标函数使用了ITC Loss(Image-Text Contrastive Loss)、ITM Loss(Image-Text Matching Loss)、MLM(Mask Language Modeling)
 

@@ -1,10 +1,11 @@
 ---
-title: "最开始使用了暴力循环"
+title: "leetcodehot100-两数之和"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
   - 方法论
+category: python
 draft: false
 slug: "python/哈希/leetcodehot100-两数之和"
 date: 2026-04-09

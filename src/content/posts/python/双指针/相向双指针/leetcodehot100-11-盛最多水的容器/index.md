@@ -1,9 +1,10 @@
 ---
-title: "1. 记录当前面积"
+title: "leetcodehot100-11.盛最多水的容器"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/双指针/相向双指针/leetcodehot100-11-盛最多水的容器"
 date: 2026-04-24

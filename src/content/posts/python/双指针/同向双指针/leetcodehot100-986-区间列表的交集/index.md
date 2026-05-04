@@ -1,9 +1,10 @@
 ---
-title: "两个指针分别指向两个列表的当前区间"
+title: "leetcodehot100-986.区间列表的交集"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/双指针/同向双指针/leetcodehot100-986-区间列表的交集"
 date: 2026-04-24

@@ -1,10 +1,11 @@
 ---
-title: "公式"
+title: PGD
 published: 2026-05-03
 description: ""
 tags:
   - 概念
   - 论文
+category: "AI知识"
 draft: false
 slug: "ai知识/对抗攻击/pgd"
 date: 2026-04-23

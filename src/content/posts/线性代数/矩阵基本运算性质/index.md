@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 概念
+category: "线性代数"
 draft: false
 slug: "线性代数/矩阵基本运算性质"
 date: 2026-04-10

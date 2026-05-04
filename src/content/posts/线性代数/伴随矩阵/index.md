@@ -3,6 +3,7 @@ title: "伴随矩阵"
 published: 2026-05-03
 description: ""
 tags: []
+category: "线性代数"
 draft: false
 slug: "线性代数/伴随矩阵"
 date: 2026-04-10

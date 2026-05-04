@@ -1,9 +1,10 @@
 ---
-title: "伪代码"
+title: Dataset
 published: 2026-05-03
 description: ""
 tags:
   - 基类
+category: python
 draft: false
 slug: "python/库/pytorch/torch-utils/torch-utils-data/dataset"
 date: 2026-04-29

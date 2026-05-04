@@ -1,9 +1,10 @@
 ---
-title: "二解：并查集"
+title: "leetcodehot100-200.岛屿数量"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/bfs/leetcodehot100-200-岛屿数量"
 date: 2026-04-16

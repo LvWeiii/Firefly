@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/bfs/leetcodehot100-994-腐烂的橘子"
 date: 2026-04-09

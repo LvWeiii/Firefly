@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/哈希/leetcodehot100-560-和为k的子数组"
 date: 2026-04-20

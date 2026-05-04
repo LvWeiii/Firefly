@@ -5,6 +5,7 @@ description: ""
 tags:
   - OPPO真题
   - 塔子哥算法课
+category: python
 draft: false
 slug: "python/双指针/oppo2025-09-27可整除子数组"
 date: 2026-04-12

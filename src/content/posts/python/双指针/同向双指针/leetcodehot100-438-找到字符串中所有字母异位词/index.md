@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/双指针/同向双指针/leetcodehot100-438-找到字符串中所有字母异位词"
 date: 2026-04-24

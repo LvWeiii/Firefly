@@ -5,6 +5,7 @@ description: ""
 tags:
   - 模板
   - 塔子哥算法课
+category: python
 draft: false
 slug: "python/双指针/塔子哥的下标"
 date: 2026-04-12

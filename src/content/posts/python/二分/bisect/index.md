@@ -1,9 +1,10 @@
 ---
-title: "库"
+title: bisect
 published: 2026-05-03
 description: ""
 tags:
   - bisect
+category: python
 draft: false
 slug: "python/二分/bisect"
 ---

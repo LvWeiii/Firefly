@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/组合型回溯/leetcodehot100-78-子集"
 date: 2026-04-25

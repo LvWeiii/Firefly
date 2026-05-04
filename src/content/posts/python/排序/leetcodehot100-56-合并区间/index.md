@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/排序/leetcodehot100-56-合并区间"
 date: 2026-04-18

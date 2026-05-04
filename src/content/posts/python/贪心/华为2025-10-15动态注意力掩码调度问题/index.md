@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 华为真题
+category: python
 draft: false
 slug: "python/贪心/华为2025-10-15动态注意力掩码调度问题"
 date: 2026-04-09

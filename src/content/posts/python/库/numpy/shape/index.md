@@ -1,9 +1,10 @@
 ---
-title: "特殊情况：一维数组"
+title: "shape（）"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/库/numpy/shape"
 date: 2026-04-08

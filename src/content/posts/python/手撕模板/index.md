@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 模板
+category: python
 draft: false
 slug: "python/手撕模板"
 date: 2026-04-20

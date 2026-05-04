@@ -5,6 +5,7 @@ description: ""
 tags:
   - 华为真题
   - 模板
+category: "AI知识"
 draft: false
 slug: "ai知识/knn/华为2026-03-18基于knn的语音数据分类"
 date: 2026-04-11

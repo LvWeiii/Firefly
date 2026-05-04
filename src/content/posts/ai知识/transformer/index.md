@@ -1,10 +1,11 @@
 ---
-title: "基本框架——编码器解码器"
+title: Transformer
 published: 2026-05-03
 description: ""
 tags:
   - 经典大模型
   - 论文
+category: "AI知识"
 draft: false
 slug: "ai知识/transformer"
 date: 2026-04-02

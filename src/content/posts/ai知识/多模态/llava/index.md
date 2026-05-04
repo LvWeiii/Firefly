@@ -1,11 +1,12 @@
 ---
-title: "完整工作流"
+title: LLaVA
 published: 2026-05-03
 description: ""
 tags:
   - 经典大模型
   - 论文
   - 概念
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/llava"
 date: 2026-04-22

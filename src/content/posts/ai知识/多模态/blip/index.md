@@ -1,11 +1,12 @@
 ---
-title: "引言"
+title: BLIP
 published: 2026-05-03
 description: ""
 tags:
   - 概念
   - 经典大模型
   - 论文
+category: "AI知识"
 draft: false
 slug: "ai知识/多模态/blip"
 date: 2026-04-20
@@ -13,7 +14,7 @@ date: 2026-04-20
 
 [[BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/pdf/2201.12086)]()
 
-BLIP是[基本架构](/posts/ai知识/多模态/albef/)原班人马做的
+BLIP是[ALBEF](/posts/ai知识/多模态/albef/)原班人马做的
 
 # 引言
 

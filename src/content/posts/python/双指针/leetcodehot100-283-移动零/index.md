@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/双指针/leetcodehot100-283-移动零"
 date: 2026-04-22

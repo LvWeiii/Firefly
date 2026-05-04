@@ -1,9 +1,10 @@
 ---
-title: "输出: [0 1 2 3]  （去重且排好序了）"
+title: "np.unique()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/库/numpy/np-unique"
 date: 2026-04-10

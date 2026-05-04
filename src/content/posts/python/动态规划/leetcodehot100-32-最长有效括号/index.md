@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/动态规划/leetcodehot100-32-最长有效括号"
 date: 2026-05-01

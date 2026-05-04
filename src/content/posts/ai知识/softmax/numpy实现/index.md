@@ -1,9 +1,10 @@
 ---
-title: "定义"
+title: "numpy实现"
 published: 2026-05-03
 description: ""
 tags:
   - 模板
+category: "AI知识"
 draft: false
 slug: "ai知识/softmax/numpy实现"
 date: 2026-04-09

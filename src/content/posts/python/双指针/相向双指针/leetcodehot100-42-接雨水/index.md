@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/双指针/相向双指针/leetcodehot100-42-接雨水"
 date: 2026-04-24

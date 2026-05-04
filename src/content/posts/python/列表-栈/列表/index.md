@@ -1,9 +1,10 @@
 ---
-title: "切片"
+title: "列表"
 published: 2026-05-03
 description: ""
 tags:
   - 数据结构
+category: python
 draft: false
 slug: "python/列表-栈/列表"
 date: 2026-3-31

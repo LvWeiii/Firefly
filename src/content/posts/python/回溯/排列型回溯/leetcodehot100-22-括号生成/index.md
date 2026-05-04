@@ -1,9 +1,10 @@
 ---
-title: "参数直接变成：已经用了的左括号数(left)，已经用了的右括号数(right)"
+title: "leetcodehot100-22.括号生成"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/排列型回溯/leetcodehot100-22-括号生成"
 date: 2026-04-25

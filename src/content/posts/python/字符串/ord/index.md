@@ -1,9 +1,10 @@
 ---
-title: "语法"
+title: ord
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/字符串/ord"
 date: 2026-04-02
@@ -37,7 +38,7 @@ print(ord('\n'))   # 输出: 10（换行符）
 
 ```
 
-# 与[与[[ord]]关系](/posts/python/字符串/chr/)的关系
+# 与[chr](/posts/python/字符串/chr/)的关系
 ord()与chr()是互为逆运算的一对函数：
 ![ord与chr关系](./ord与chr关系.png)
 

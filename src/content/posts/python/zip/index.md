@@ -1,9 +1,10 @@
 ---
-title: "输出: [('Alice', 85), ('Bob', 90), ('Charlie', 95)]"
+title: "zip()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: python/zip
 date: 2026-04-11

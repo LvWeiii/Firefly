@@ -1,9 +1,10 @@
 ---
-title: "1、计算矩阵特征值"
+title: "是否可对角化"
 published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: "线性代数"
 draft: false
 slug: "线性代数/是否可对角化"
 date: 2026-04-04

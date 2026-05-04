@@ -1,9 +1,10 @@
 ---
-title: "基本语法"
+title: "记忆化搜索-lru_cache"
 published: 2026-05-03
 description: ""
 tags:
   - functools
+category: python
 draft: false
 slug: "python/动态规划/记忆化搜索-lru-cache"
 date: 2026-04-05

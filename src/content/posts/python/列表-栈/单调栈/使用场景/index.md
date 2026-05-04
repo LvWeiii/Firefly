@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: python
 draft: false
 slug: "python/列表-栈/单调栈/使用场景"
 date: 2026-04-18

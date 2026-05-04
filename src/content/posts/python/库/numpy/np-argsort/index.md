@@ -1,9 +1,10 @@
 ---
-title: "1. 获取距离从小到大的索引顺序"
+title: "np.argsort()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/库/numpy/np-argsort"
 date: 2026-04-10

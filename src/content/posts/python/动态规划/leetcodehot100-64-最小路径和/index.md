@@ -1,9 +1,10 @@
 ---
-title: "1. 单独初始化第一行的数据"
+title: "leetcodehot100-64.最小路径和"
 published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/动态规划/leetcodehot100-64-最小路径和"
 date: 2026-04-18

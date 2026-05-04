@@ -1,9 +1,10 @@
 ---
-title: "判断标准"
+title: "可迭代对象"
 published: 2026-05-03
 description: ""
 tags:
   - 数据结构
+category: python
 draft: false
 slug: "python/可迭代对象"
 aliases:

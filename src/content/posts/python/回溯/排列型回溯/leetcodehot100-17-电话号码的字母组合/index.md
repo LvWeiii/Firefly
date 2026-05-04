@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/排列型回溯/leetcodehot100-17-电话号码的字母组合"
 date: 2026-04-25

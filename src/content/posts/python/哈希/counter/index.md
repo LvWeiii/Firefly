@@ -1,10 +1,11 @@
 ---
-title: "本质"
+title: Counter
 published: 2026-05-03
 description: ""
 tags:
   - 数据结构
   - collections
+category: python
 draft: false
 slug: "python/哈希/counter"
 ---

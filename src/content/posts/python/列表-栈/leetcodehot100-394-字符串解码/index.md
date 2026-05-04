@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/列表-栈/leetcodehot100-394-字符串解码"
 date: 2026-04-17

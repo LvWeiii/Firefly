@@ -1,10 +1,11 @@
 ---
-title: "基本语法"
+title: defaultdict
 published: 2026-05-03
 description: ""
 tags:
   - collections
   - 数据结构
+category: python
 draft: false
 slug: "python/哈希/defaultdict"
 ---
@@ -79,4 +80,4 @@ for item in items:
 	dd[item] += 1
 ```
 
-计数使用counter更方便：[本质](/posts/python/哈希/counter/)
+计数使用counter更方便：[Counter](/posts/python/哈希/counter/)

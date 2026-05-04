@@ -1,9 +1,10 @@
 ---
-title: "组合型回溯模板"
+title: "基本思想"
 published: 2026-05-03
 description: ""
 tags:
   - 模板
+category: python
 draft: false
 slug: "python/回溯/基本思想"
 date: 2026-04-16

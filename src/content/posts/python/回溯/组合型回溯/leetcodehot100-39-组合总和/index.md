@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/组合型回溯/leetcodehot100-39-组合总和"
 date: 2026-04-25
@@ -11,7 +12,7 @@ date: 2026-04-25
 
 [39. 组合总和 - 力扣（LeetCode）](https://leetcode.cn/problems/combination-sum/submissions/720984105/?envType=study-plan-v2&envId=top-100-liked)
 
-完全套用[组合型回溯模板](/posts/python/回溯/基本思想/)中的模板
+完全套用[基本思想](/posts/python/回溯/基本思想/)中的模板
 
 ```python
 class Solution:

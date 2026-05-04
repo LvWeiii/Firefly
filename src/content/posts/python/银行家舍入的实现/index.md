@@ -1,9 +1,10 @@
 ---
-title: "quantize 默认使用 ROUND_HALF_EVEN (银行家舍入)"
+title: "银行家舍入的实现"
 published: 2026-05-03
 description: ""
 tags:
   - decimal
+category: python
 draft: false
 slug: "python/银行家舍入的实现"
 date: 2026-04-16

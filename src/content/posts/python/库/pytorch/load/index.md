@@ -1,9 +1,10 @@
 ---
-title: "map_location参数"
+title: "load()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/库/pytorch/load"
 date: 2026-04-29

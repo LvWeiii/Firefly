@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 方法论
+category: "概率论与数理统计"
 draft: false
 slug: "概率论与数理统计/计算协方差矩阵"
 date: 2026-04-04

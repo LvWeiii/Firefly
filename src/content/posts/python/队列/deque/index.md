@@ -1,10 +1,11 @@
 ---
-title: "前置库"
+title: "deque()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
   - collections
+category: python
 draft: false
 slug: "python/队列/deque"
 date: 2026-04-16

@@ -5,6 +5,7 @@ description: ""
 tags:
   - 中国电信真题
   - 塔子哥算法课
+category: python
 draft: false
 slug: "python/双指针/中国电信2024-10-26序列整除"
 date: 2026-04-12

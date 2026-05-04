@@ -63,13 +63,6 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/beauty and a beat.webp",
 				lrc: "/assets/music/Beauty and a Beat-Justin Bieber&Nicki Minaj.lrc"
 			},
-			{
-				name: "Beauty and a Beat",
-				artist: "Justin Bieber&Nicki Minaj",
-				url: "/assets/music/The Saltwater Room (Album Version)-Owl City.flac",
-				cover: "/assets/music/cover/saltwater room.webp",
-				lrc: "/assets/music/The Saltwater Room (Album Version)-Owl City.lrc"
-			},
 		],
 	},
 };

@@ -1,15 +1,16 @@
 ---
-title: "核心特点"
+title: "extend()"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/列表-栈/extend"
 date: 2026-04-03
 ---
 
-`.extend()` 是 Python [切片](/posts/python/列表-栈/列表/)的一个方法，用于将一个[判断标准](/posts/python/可迭代对象/)中的所有元素添加到列表末尾。
+`.extend()` 是 Python [列表](/posts/python/列表-栈/列表/)的一个方法，用于将一个[可迭代对象](/posts/python/可迭代对象/)中的所有元素添加到列表末尾。
 
 # 核心特点
 

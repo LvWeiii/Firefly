@@ -1,10 +1,11 @@
 ---
-title: "区别"
+title: "model.train()与model.eval()"
 published: 2026-05-03
 description: ""
 tags:
   - 概念
   - 函数
+category: python
 draft: false
 slug: "python/库/pytorch/model-train-与model-eval"
 date: 2026-04-27

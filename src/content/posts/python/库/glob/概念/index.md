@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 概念
+category: python
 draft: false
 slug: "python/库/glob/概念"
 date: 2026-04-29

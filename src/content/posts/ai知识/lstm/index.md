@@ -1,15 +1,16 @@
 ---
-title: "工作流程"
+title: LSTM
 published: 2026-05-03
 description: ""
 tags:
   - 经典大模型
+category: "AI知识"
 draft: false
 slug: "ai知识/lstm"
 date: 2026-03-29T21:31:00
 ---
 
-基于[基本形式](/posts/ai知识/rnn/)，缓解梯度消失问题，改善循环神经网络的长程依赖问题
+基于[RNN](/posts/ai知识/rnn/)，缓解梯度消失问题，改善循环神经网络的长程依赖问题
 
 和RNN相比，多了记忆单元$c_{t}$
 

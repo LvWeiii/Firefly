@@ -1,9 +1,10 @@
 ---
-title: "原因"
+title: "浅拷贝"
 published: 2026-05-03
 description: ""
 tags:
   - 函数
+category: python
 draft: false
 slug: "python/列表-栈/浅拷贝"
 date: 2026-04-03

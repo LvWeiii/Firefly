@@ -4,6 +4,7 @@ published: 2026-05-03
 description: ""
 tags:
   - 力扣
+category: python
 draft: false
 slug: "python/回溯/组合型回溯/leetcodehot100-131-分割回文串"
 date: 2026-04-25
@@ -11,7 +12,7 @@ date: 2026-04-25
 
 [131. 分割回文串 - 力扣（LeetCode）](https://leetcode.cn/problems/palindrome-partitioning/?envType=study-plan-v2&envId=top-100-liked)
 
-依旧[组合型回溯模板](/posts/python/回溯/基本思想/)模板套用，这里起点是分割串的起点、range里的起点是分割串的终点，其他都常规
+依旧[基本思想](/posts/python/回溯/基本思想/)模板套用，这里起点是分割串的起点、range里的起点是分割串的终点，其他都常规
 
 ```python
 class Solution:

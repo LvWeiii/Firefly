@@ -3,6 +3,7 @@ title: "分类"
 published: 2026-05-03
 description: ""
 tags: []
+category: "AI知识"
 draft: false
 slug: "ai知识/集成学习/boosting/分类"
 date: 2026-04-05

@@ -1,9 +1,10 @@
 ---
-title: "定义："
+title: "三次样条插值法"
 published: 2026-05-03
 description: ""
 tags:
   - 数理方法
+category: "AI知识"
 draft: false
 slug: "ai知识/三次样条插值法"
 date: 2026-03-29T20:14:00
